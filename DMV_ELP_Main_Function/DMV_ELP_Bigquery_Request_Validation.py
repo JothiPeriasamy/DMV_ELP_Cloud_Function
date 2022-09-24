@@ -15,7 +15,7 @@ this code will be optimized, and Python OOP concepts will be introduced to incre
 ____________________________________________________________________________________________________________
 Development Platform                | Developer       | Reviewer   | Release  | Version  | Date
 ____________________________________|_________________|____________|__________|__________|__________________
-Google Cloud Serverless Computing   | DMV Consultant  | Ajay Gupta | Initial  | 1.0      | 09/18/2022
+Google Cloud Serverless Computing   | Jothi Periasamy | Ajay Gupta | Initial  | 1.0      | 09/18/2022
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
